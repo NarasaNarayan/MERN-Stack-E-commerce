@@ -2,7 +2,7 @@ import React from "react";
 import './NewsLetter.css'
 const NewsLetter = () => {
   return <div className="news-letter">
-<h1> Get Exclusive Offers on Your Email</h1>
+<h2> Get Exclusive Offers on Your Email</h2>
 <p>Subscribe to our newsletter and stay update</p>
 <div>
     <input type="email" name="" id="" placeholder="your email id"/>
